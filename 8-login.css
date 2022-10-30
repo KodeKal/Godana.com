@@ -1,0 +1,2700 @@
+/* screen - 8-login */
+
+.x8-login {
+  background-color: #ffffff;
+  border: 1px none;
+  height: 1024px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.x8-login .line-4-C61RwL {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/line-4-1@1x.svg);
+  background-size: 100% 100%;
+  height: 1px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 902px;
+  width: 1920px;
+}
+
+.x8-login .rectangle-10-C61RwL {
+  --z-index: 1;
+  background-color: #ececec;
+  border: 1px none;
+  height: 289px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 735px;
+  width: 1920px;
+}
+
+.x8-login .rectangle-7-C61RwL {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/rectangle-7-1@1x.png);
+  background-size: 100% 100%;
+  height: 796px;
+  left: 1227px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 228px;
+  width: 543px;
+}
+
+.x8-login .group-96-C61RwL {
+  --z-index: 3;
+  background-color: transparent;
+  height: 437px;
+  left: 658px;
+  opacity: 1;
+  position: absolute;
+  top: 224px;
+  width: 436px;
+}
+
+.x8-login .group-75-3U5qE3 {
+  --z-index: 0;
+  background-color: transparent;
+  height: 395px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 438px;
+}
+
+.x8-login .group-93-isLFhx {
+  --z-index: 0;
+  background-color: transparent;
+  height: 299px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 96px;
+  width: 436px;
+}
+
+.x8-login .group-79-kkfyBR {
+  --z-index: 0;
+  background-color: transparent;
+  height: 55px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 438px;
+}
+
+.x8-login .email-lqIaYW {
+  --z-index: 0;
+  background-color: transparent;
+  color: #444444;
+  font-family: 'Roboto', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.x8-login .group-6-lqIaYW {
+  --z-index: 1;
+  background-color: transparent;
+  height: 25px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 30px;
+  width: 438px;
+}
+
+.x8-login .eg-contactemailcom-oo9kRF {
+  --z-index: 0;
+  background-color: transparent;
+  color: #b0b0b0;
+  font-family: 'Roboto', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.x8-login .line-5-oo9kRF {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/line-5@2x.svg);
+  background-size: 100% 100%;
+  height: 2px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 25px;
+  width: 436px;
+}
+
+.x8-login .group-79-R03EnS {
+  --z-index: 1;
+  background-color: transparent;
+  height: 55px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 99px;
+  width: 438px;
+}
+
+.x8-login .password-ScyqEk {
+  --z-index: 0;
+  background-color: transparent;
+  color: #444444;
+  font-family: 'Roboto', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.x8-login .group-6-ScyqEk {
+  --z-index: 1;
+  background-color: transparent;
+  height: 25px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 30px;
+  width: 438px;
+}
+
+.x8-login .x-xyHyk3 {
+  --z-index: 0;
+  background-color: transparent;
+  color: #b0b0b0;
+  font-family: 'Roboto', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.x8-login .line-5-xyHyk3 {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/line-5@2x.svg);
+  background-size: 100% 100%;
+  height: 2px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 25px;
+  width: 436px;
+}
+
+.x8-login .group-2-kkfyBR {
+  --z-index: 2;
+  background-color: transparent;
+  cursor: pointer;
+  height: 51px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 248px;
+  width: 438px;
+}
+
+.x8-login .rectangle-5-juzSKi {
+  --z-index: 0;
+  background-color: #f3802d;
+  border: 2px none;
+  border-radius: 10px;
+  height: 51px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 436px;
+}
+
+.x8-login .login-juzSKi {
+  --z-index: 1;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'Roboto', Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 196px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 16px;
+  width: auto;
+}
+
+.x8-login .hello-isLFhx {
+  --z-index: 1;
+  background-color: transparent;
+  color: #444444;
+  font-family: 'Roboto', Helvetica;
+  font-size: 50px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 55.0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.x8-login .group-95-3U5qE3 {
+  --z-index: 1;
+  background-color: transparent;
+  height: 149px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 288px;
+  width: 440px;
+}
+
+.x8-login .group-94-B5Q4Tz {
+  --z-index: 0;
+  background-color: transparent;
+  height: 23px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 158px;
+}
+
+.x8-login .rectangle-19-MMu0Tf {
+  --z-index: 0;
+  background-color: transparent;
+  border: 2px solid;
+  border-color: #bebebe;
+  border-radius: 5px;
+  height: 25px;
+  left: -1px;
+  opacity: 1;
+  position: absolute;
+  top: -1px;
+  width: 25px;
+}
+
+.x8-login .keep-me-signed-in-MMu0Tf {
+  --z-index: 1;
+  background-color: transparent;
+  color: #444444;
+  font-family: 'Roboto', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 33px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  width: 123px;
+}
+
+.x8-login .forgot-my-password-B5Q4Tz {
+  --z-index: 1;
+  background-color: transparent;
+  color: #b0b0b0;
+  cursor: pointer;
+  font-family: 'Roboto', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 299px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 2px;
+  width: 137px;
+}
+
+.x8-login .are-you-trying-to-create-an-account-B5Q4Tz {
+  --z-index: 2;
+  background-color: transparent;
+  color: transparent;
+  cursor: pointer;
+  font-family: 'Roboto', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 87px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 135px;
+  width: 261px;
+}
+
+.x8-login .span0-MxZQ3W {
+  color: #b0b0b0;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.x8-login .span1-MxZQ3W {
+  color: #444444;
+  font-style: normal;
+  font-weight: 700;
+  text-decoration: underline;
+}
+
+.x8-login .span2-MxZQ3W {
+  color: #b0b0b0;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.x8-login .group-34-C61RwL {
+  --z-index: 4;
+  background-color: transparent;
+  height: 53px;
+  left: 150px;
+  opacity: 1;
+  position: absolute;
+  top: 70px;
+  width: 1620px;
+}
+
+.x8-login .full-name_nb-1-qQAETk {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/full-name-nb-1@2x.png);
+  background-size: 100% 100%;
+  height: 41px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 124px;
+}
+
+.x8-login .group-32-qQAETk {
+  --z-index: 1;
+  background-color: transparent;
+  height: 51px;
+  left: 1431px;
+  opacity: 1;
+  position: absolute;
+  top: 2px;
+  width: 189px;
+}
+
+.x8-login .group-2-VPKrU7 {
+  --z-index: 0;
+  background-color: transparent;
+  cursor: pointer;
+  height: 51px;
+  left: 85px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 106px;
+}
+
+.x8-login .rectangle-5-xvaclw {
+  --z-index: 0;
+  background-color: transparent;
+  border: 2px solid;
+  border-color: #f3802d;
+  border-radius: 10px;
+  height: 51px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 104px;
+}
+
+.x8-login .join-us-xvaclw {
+  --z-index: 1;
+  background-color: transparent;
+  color: #f3802d;
+  font-family: 'Roboto', Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 23px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 13px;
+  width: auto;
+}
+
+.x8-login .group-2-a3mz1z {
+  --z-index: 1;
+  background-color: transparent;
+  height: 21px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 13px;
+  width: 47px;
+}
+
+.x8-login .login-mmfAe1 {
+  --z-index: 0;
+  background-color: transparent;
+  color: #f3802d;
+  font-family: 'Roboto', Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: auto;
+}
+
+.x8-login .group-33-qQAETk {
+  --z-index: 2;
+  background-color: transparent;
+  height: 21px;
+  left: 501px;
+  opacity: 1;
+  position: absolute;
+  top: 15px;
+  width: 569px;
+}
+
+.x8-login .group-3-xvFZft {
+  --z-index: 0;
+  background-color: transparent;
+  height: 21px;
+  left: 0px;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  width: 579px;
+}
+
+.x8-login .how-it-works-NlWtFY {
+  --z-index: 0;
+  background-color: transparent;
+  color: #444444;
+  font-family: 'Roboto', Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 89px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.x8-login .home-NlWtFY {
+  --z-index: 1;
+  background-color: transparent;
+  color: #444444;
+  font-family: 'Roboto', Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.x8-login .entrepreneur-NlWtFY {
+  --z-index: 2;
+  background-color: transparent;
+  color: #444444;
+  font-family: 'Roboto', Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 242px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.x8-login .advisors-NlWtFY {
+  --z-index: 3;
+  background-color: transparent;
+  color: #444444;
+  font-family: 'Roboto', Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 385px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.x8-login .investors-NlWtFY {
+  --z-index: 4;
+  background-color: transparent;
+  color: #444444;
+  font-family: 'Roboto', Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 495px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+/* screen - 8-1-login-error */
+
+.x8-1-login-error {
+  background-color: #ffffff;
+  border: 1px none;
+  height: 1024px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.x8-1-login-error .line-4-C61RwL {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/line-4-1@1x.svg);
+  background-size: 100% 100%;
+  height: 1px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 908px;
+  width: 1920px;
+}
+
+.x8-1-login-error .rectangle-10-C61RwL {
+  --z-index: 1;
+  background-color: #ececec;
+  border: 1px none;
+  height: 289px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 865px;
+  width: 1920px;
+}
+
+.x8-1-login-error .rectangle-7-C61RwL {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/rectangle-7-1@1x.png);
+  background-size: 100% 100%;
+  height: 796px;
+  left: 1227px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 228px;
+  width: 543px;
+}
+
+.x8-1-login-error .group-96-C61RwL {
+  --z-index: 3;
+  background-color: transparent;
+  height: 567px;
+  left: 658px;
+  opacity: 1;
+  position: absolute;
+  top: 224px;
+  width: 436px;
+}
+
+.x8-1-login-error .group-75-3U5qE3 {
+  --z-index: 0;
+  background-color: transparent;
+  height: 525px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 438px;
+}
+
+.x8-1-login-error .group-93-isLFhx {
+  --z-index: 0;
+  background-color: transparent;
+  height: 299px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 226px;
+  width: 436px;
+}
+
+.x8-1-login-error .group-79-kkfyBR {
+  --z-index: 0;
+  background-color: transparent;
+  height: 55px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 438px;
+}
+
+.x8-1-login-error .email-lqIaYW {
+  --z-index: 0;
+  background-color: transparent;
+  color: #444444;
+  font-family: 'Roboto', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.x8-1-login-error .group-6-lqIaYW {
+  --z-index: 1;
+  background-color: transparent;
+  height: 25px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 30px;
+  width: 438px;
+}
+
+.x8-1-login-error .josephemailcom-oo9kRF {
+  --z-index: 0;
+  background-color: transparent;
+  color: #444444;
+  font-family: 'Roboto', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.x8-1-login-error .line-5-oo9kRF {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/line-5-4@2x.svg);
+  background-size: 100% 100%;
+  height: 2px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 25px;
+  width: 436px;
+}
+
+.x8-1-login-error .group-79-R03EnS {
+  --z-index: 1;
+  background-color: transparent;
+  height: 55px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 99px;
+  width: 438px;
+}
+
+.x8-1-login-error .password-ScyqEk {
+  --z-index: 0;
+  background-color: transparent;
+  color: #444444;
+  font-family: 'Roboto', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.x8-1-login-error .group-6-ScyqEk {
+  --z-index: 1;
+  background-color: transparent;
+  height: 25px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 30px;
+  width: 438px;
+}
+
+.x8-1-login-error .x-xyHyk3 {
+  --z-index: 0;
+  background-color: transparent;
+  color: #b0b0b0;
+  font-family: 'Roboto', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.x8-1-login-error .line-5-xyHyk3 {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/line-5-4@2x.svg);
+  background-size: 100% 100%;
+  height: 2px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 25px;
+  width: 436px;
+}
+
+.x8-1-login-error .group-2-kkfyBR {
+  --z-index: 2;
+  background-color: transparent;
+  height: 51px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 248px;
+  width: 438px;
+}
+
+.x8-1-login-error .rectangle-5-juzSKi {
+  --z-index: 0;
+  background-color: #c4c4c4;
+  border: 2px none;
+  border-radius: 10px;
+  height: 51px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 436px;
+}
+
+.x8-1-login-error .login-juzSKi {
+  --z-index: 1;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'Roboto', Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 196px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 16px;
+  width: auto;
+}
+
+.x8-1-login-error .hello-isLFhx {
+  --z-index: 1;
+  background-color: transparent;
+  color: #444444;
+  font-family: 'Roboto', Helvetica;
+  font-size: 50px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 55.0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.x8-1-login-error .group-95-3U5qE3 {
+  --z-index: 1;
+  background-color: transparent;
+  height: 149px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 418px;
+  width: 440px;
+}
+
+.x8-1-login-error .group-94-B5Q4Tz {
+  --z-index: 0;
+  background-color: transparent;
+  height: 23px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 158px;
+}
+
+.x8-1-login-error .rectangle-19-MMu0Tf {
+  --z-index: 0;
+  background-color: transparent;
+  border: 2px solid;
+  border-color: #bebebe;
+  border-radius: 5px;
+  height: 25px;
+  left: -1px;
+  opacity: 1;
+  position: absolute;
+  top: -1px;
+  width: 25px;
+}
+
+.x8-1-login-error .keep-me-signed-in-MMu0Tf {
+  --z-index: 1;
+  background-color: transparent;
+  color: #444444;
+  font-family: 'Roboto', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 33px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  width: 123px;
+}
+
+.x8-1-login-error .forgot-my-password-B5Q4Tz {
+  --z-index: 1;
+  background-color: transparent;
+  color: #b0b0b0;
+  cursor: pointer;
+  font-family: 'Roboto', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 299px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 2px;
+  width: 137px;
+}
+
+.x8-1-login-error .are-you-trying-to-create-an-account-B5Q4Tz {
+  --z-index: 2;
+  background-color: transparent;
+  color: transparent;
+  font-family: 'Roboto', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 87px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 135px;
+  width: 261px;
+}
+
+.x8-1-login-error .span0-MxZQ3W {
+  color: #b0b0b0;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.x8-1-login-error .span1-MxZQ3W {
+  color: #444444;
+  font-style: normal;
+  font-weight: 700;
+  text-decoration: underline;
+}
+
+.x8-1-login-error .span2-MxZQ3W {
+  color: #b0b0b0;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.x8-1-login-error .rectangle-20-C61RwL {
+  --z-index: 4;
+  background-color: #fafafa;
+  border: 1px none;
+  border-radius: 10px;
+  box-shadow: 0px 4px 24px #0000001f;
+  height: 103px;
+  left: 658px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 308px;
+  width: 436px;
+}
+
+.x8-1-login-error .oops-C61RwL {
+  --z-index: 5;
+  background-color: transparent;
+  color: #f3802d;
+  font-family: 'Roboto', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 723px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 331px;
+  width: auto;
+}
+
+.x8-1-login-error .wrong-email-or-password-C61RwL {
+  --z-index: 6;
+  background-color: transparent;
+  color: #444444;
+  font-family: 'Roboto', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 693px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 368px;
+  width: auto;
+}
+
+.x8-1-login-error .group-98-C61RwL {
+  --z-index: 7;
+  background-color: transparent;
+  background-image: url(../img/group-98@2x.svg);
+  background-size: 100% 100%;
+  height: 22px;
+  left: 692px;
+  opacity: 1;
+  position: absolute;
+  top: 330px;
+  width: 22px;
+}
+
+.x8-1-login-error .group-99-C61RwL {
+  --z-index: 8;
+  background-color: transparent;
+  background-image: url(../img/group-99@2x.svg);
+  background-size: 100% 100%;
+  height: 14px;
+  left: 1046px;
+  opacity: 1;
+  position: absolute;
+  top: 334px;
+  width: 14px;
+}
+
+.x8-1-login-error .group-34-C61RwL {
+  --z-index: 9;
+  background-color: transparent;
+  height: 53px;
+  left: 150px;
+  opacity: 1;
+  position: absolute;
+  top: 70px;
+  width: 1620px;
+}
+
+.x8-1-login-error .full-name_nb-1-qQAETk {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/full-name-nb-1@2x.png);
+  background-size: 100% 100%;
+  height: 41px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 124px;
+}
+
+.x8-1-login-error .group-32-qQAETk {
+  --z-index: 1;
+  background-color: transparent;
+  height: 51px;
+  left: 1431px;
+  opacity: 1;
+  position: absolute;
+  top: 2px;
+  width: 189px;
+}
+
+.x8-1-login-error .group-2-VPKrU7 {
+  --z-index: 0;
+  background-color: transparent;
+  height: 51px;
+  left: 85px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 106px;
+}
+
+.x8-1-login-error .rectangle-5-xvaclw {
+  --z-index: 0;
+  background-color: transparent;
+  border: 2px solid;
+  border-color: #f3802d;
+  border-radius: 10px;
+  height: 51px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 104px;
+}
+
+.x8-1-login-error .join-us-xvaclw {
+  --z-index: 1;
+  background-color: transparent;
+  color: #f3802d;
+  font-family: 'Roboto', Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 23px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 13px;
+  width: auto;
+}
+
+.x8-1-login-error .group-2-a3mz1z {
+  --z-index: 1;
+  background-color: transparent;
+  height: 21px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 13px;
+  width: 47px;
+}
+
+.x8-1-login-error .login-mmfAe1 {
+  --z-index: 0;
+  background-color: transparent;
+  color: #f3802d;
+  font-family: 'Roboto', Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: auto;
+}
+
+.x8-1-login-error .group-33-qQAETk {
+  --z-index: 2;
+  background-color: transparent;
+  height: 21px;
+  left: 501px;
+  opacity: 1;
+  position: absolute;
+  top: 15px;
+  width: 569px;
+}
+
+.x8-1-login-error .group-3-xvFZft {
+  --z-index: 0;
+  background-color: transparent;
+  height: 21px;
+  left: 0px;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  width: 579px;
+}
+
+.x8-1-login-error .how-it-works-NlWtFY {
+  --z-index: 0;
+  background-color: transparent;
+  color: #444444;
+  font-family: 'Roboto', Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 89px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.x8-1-login-error .home-NlWtFY {
+  --z-index: 1;
+  background-color: transparent;
+  color: #444444;
+  font-family: 'Roboto', Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.x8-1-login-error .entrepreneur-NlWtFY {
+  --z-index: 2;
+  background-color: transparent;
+  color: #444444;
+  font-family: 'Roboto', Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 242px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.x8-1-login-error .advisors-NlWtFY {
+  --z-index: 3;
+  background-color: transparent;
+  color: #444444;
+  font-family: 'Roboto', Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 385px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.x8-1-login-error .investors-NlWtFY {
+  --z-index: 4;
+  background-color: transparent;
+  color: #444444;
+  font-family: 'Roboto', Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 495px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+/* screen - 8-2-login-reset-password */
+
+.x8-2-login-reset-password {
+  background-color: #ffffff;
+  border: 1px none;
+  height: 1024px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.x8-2-login-reset-password .line-4-C61RwL {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/line-4-1@1x.svg);
+  background-size: 100% 100%;
+  height: 1px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 902px;
+  width: 1920px;
+}
+
+.x8-2-login-reset-password .enter-your-email-and-C61RwL {
+  --z-index: 1;
+  background-color: transparent;
+  color: #444444;
+  font-family: 'Roboto', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 658px;
+  letter-spacing: 0.00px;
+  line-height: 22.5px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 294px;
+  width: 323px;
+}
+
+.x8-2-login-reset-password .rectangle-10-C61RwL {
+  --z-index: 2;
+  background-color: #ececec;
+  border: 1px none;
+  height: 363px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 681px;
+  width: 1920px;
+}
+
+.x8-2-login-reset-password .rectangle-7-C61RwL {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url(../img/rectangle-7-2@1x.svg);
+  background-size: 100% 100%;
+  height: 796px;
+  left: 1227px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 228px;
+  width: 543px;
+}
+
+.x8-2-login-reset-password .group-96-C61RwL {
+  --z-index: 4;
+  background-color: transparent;
+  height: 383px;
+  left: 658px;
+  opacity: 1;
+  position: absolute;
+  top: 224px;
+  width: 436px;
+}
+
+.x8-2-login-reset-password .group-75-3U5qE3 {
+  --z-index: 0;
+  background-color: transparent;
+  height: 341px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 438px;
+}
+
+.x8-2-login-reset-password .group-93-isLFhx {
+  --z-index: 0;
+  background-color: transparent;
+  height: 166px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 175px;
+  width: 436px;
+}
+
+.x8-2-login-reset-password .group-79-kkfyBR {
+  --z-index: 0;
+  background-color: transparent;
+  height: 55px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 438px;
+}
+
+.x8-2-login-reset-password .email-lqIaYW {
+  --z-index: 0;
+  background-color: transparent;
+  color: #444444;
+  font-family: 'Roboto', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.x8-2-login-reset-password .group-6-lqIaYW {
+  --z-index: 1;
+  background-color: transparent;
+  height: 25px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 30px;
+  width: 438px;
+}
+
+.x8-2-login-reset-password .eg-contactemailcom-oo9kRF {
+  --z-index: 0;
+  background-color: transparent;
+  color: #b0b0b0;
+  font-family: 'Roboto', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.x8-2-login-reset-password .line-5-oo9kRF {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/line-5@2x.svg);
+  background-size: 100% 100%;
+  height: 2px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 25px;
+  width: 436px;
+}
+
+.x8-2-login-reset-password .group-2-kkfyBR {
+  --z-index: 1;
+  background-color: transparent;
+  cursor: pointer;
+  height: 51px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 115px;
+  width: 438px;
+}
+
+.x8-2-login-reset-password .rectangle-5-juzSKi {
+  --z-index: 0;
+  background-color: #f3802d;
+  border: 2px none;
+  border-radius: 10px;
+  height: 51px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 436px;
+}
+
+.x8-2-login-reset-password .reset-my-password-juzSKi {
+  --z-index: 1;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'Roboto', Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 139px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 16px;
+  width: auto;
+}
+
+.x8-2-login-reset-password .reset-password-isLFhx {
+  --z-index: 1;
+  background-color: transparent;
+  color: #444444;
+  font-family: 'Roboto', Helvetica;
+  font-size: 50px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 55.0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.x8-2-login-reset-password .group-95-3U5qE3 {
+  --z-index: 1;
+  background-color: transparent;
+  height: 14px;
+  left: 87px;
+  opacity: 1;
+  position: absolute;
+  top: 369px;
+  width: 263px;
+}
+
+.x8-2-login-reset-password .login-B5Q4Tz {
+  --z-index: 0;
+  background-color: transparent;
+  color: #444444;
+  font-family: 'Roboto', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  top: 0px;
+  width: 261px;
+}
+
+.x8-2-login-reset-password .group-34-C61RwL {
+  --z-index: 5;
+  background-color: transparent;
+  height: 53px;
+  left: 150px;
+  opacity: 1;
+  position: absolute;
+  top: 70px;
+  width: 1620px;
+}
+
+.x8-2-login-reset-password .full-name_nb-1-qQAETk {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/full-name-nb-1@2x.png);
+  background-size: 100% 100%;
+  height: 41px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 124px;
+}
+
+.x8-2-login-reset-password .group-32-qQAETk {
+  --z-index: 1;
+  background-color: transparent;
+  height: 51px;
+  left: 1431px;
+  opacity: 1;
+  position: absolute;
+  top: 2px;
+  width: 189px;
+}
+
+.x8-2-login-reset-password .group-2-VPKrU7 {
+  --z-index: 0;
+  background-color: transparent;
+  height: 51px;
+  left: 85px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 106px;
+}
+
+.x8-2-login-reset-password .rectangle-5-xvaclw {
+  --z-index: 0;
+  background-color: transparent;
+  border: 2px solid;
+  border-color: #f3802d;
+  border-radius: 10px;
+  height: 51px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 104px;
+}
+
+.x8-2-login-reset-password .join-us-xvaclw {
+  --z-index: 1;
+  background-color: transparent;
+  color: #f3802d;
+  font-family: 'Roboto', Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 23px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 13px;
+  width: auto;
+}
+
+.x8-2-login-reset-password .group-2-a3mz1z {
+  --z-index: 1;
+  background-color: transparent;
+  height: 21px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 13px;
+  width: 47px;
+}
+
+.x8-2-login-reset-password .login-mmfAe1 {
+  --z-index: 0;
+  background-color: transparent;
+  color: #f3802d;
+  font-family: 'Roboto', Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: auto;
+}
+
+.x8-2-login-reset-password .group-33-qQAETk {
+  --z-index: 2;
+  background-color: transparent;
+  height: 21px;
+  left: 501px;
+  opacity: 1;
+  position: absolute;
+  top: 15px;
+  width: 569px;
+}
+
+.x8-2-login-reset-password .group-3-xvFZft {
+  --z-index: 0;
+  background-color: transparent;
+  height: 21px;
+  left: 0px;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  width: 579px;
+}
+
+.x8-2-login-reset-password .how-it-works-NlWtFY {
+  --z-index: 0;
+  background-color: transparent;
+  color: #444444;
+  font-family: 'Roboto', Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 89px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.x8-2-login-reset-password .home-NlWtFY {
+  --z-index: 1;
+  background-color: transparent;
+  color: #444444;
+  font-family: 'Roboto', Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.x8-2-login-reset-password .entrepreneur-NlWtFY {
+  --z-index: 2;
+  background-color: transparent;
+  color: #444444;
+  font-family: 'Roboto', Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 242px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.x8-2-login-reset-password .advisors-NlWtFY {
+  --z-index: 3;
+  background-color: transparent;
+  color: #444444;
+  font-family: 'Roboto', Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 385px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.x8-2-login-reset-password .investors-NlWtFY {
+  --z-index: 4;
+  background-color: transparent;
+  color: #444444;
+  font-family: 'Roboto', Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 495px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+/* screen - 7-join-us-create-account */
+
+.x7-join-us-create-account {
+  background-color: #ffffff;
+  border: 1px none;
+  height: 1024px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.x7-join-us-create-account .line-4-C61RwL {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/line-4-1@1x.svg);
+  background-size: 100% 100%;
+  height: 1px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 902px;
+  width: 1920px;
+}
+
+.x7-join-us-create-account .group-75-C61RwL {
+  --z-index: 1;
+  background-color: transparent;
+  height: 444px;
+  left: 658px;
+  opacity: 1;
+  position: absolute;
+  top: 224px;
+  width: 440px;
+}
+
+.x7-join-us-create-account .group-93-sDLNVS {
+  --z-index: 0;
+  background-color: transparent;
+  height: 226px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 218px;
+  width: 436px;
+}
+
+.x7-join-us-create-account .group-79-EYEJbo {
+  --z-index: 0;
+  background-color: transparent;
+  height: 55px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 438px;
+}
+
+.x7-join-us-create-account .email-5UoDIx {
+  --z-index: 0;
+  background-color: transparent;
+  color: #444444;
+  font-family: 'Roboto', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.x7-join-us-create-account .group-6-5UoDIx {
+  --z-index: 1;
+  background-color: transparent;
+  height: 25px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 30px;
+  width: 438px;
+}
+
+.x7-join-us-create-account .eg-contactemailcom-3y7Vdq {
+  --z-index: 0;
+  background-color: transparent;
+  color: #b0b0b0;
+  font-family: 'Roboto', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.x7-join-us-create-account .line-5-3y7Vdq {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/line-5@2x.svg);
+  background-size: 100% 100%;
+  height: 2px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 25px;
+  width: 436px;
+}
+
+.x7-join-us-create-account .group-79-Juor9E {
+  --z-index: 1;
+  background-color: transparent;
+  height: 55px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 85px;
+  width: 438px;
+}
+
+.x7-join-us-create-account .password-OHPKjD {
+  --z-index: 0;
+  background-color: transparent;
+  color: #444444;
+  font-family: 'Roboto', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.x7-join-us-create-account .group-6-OHPKjD {
+  --z-index: 1;
+  background-color: transparent;
+  height: 25px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 30px;
+  width: 438px;
+}
+
+.x7-join-us-create-account .x-8aGnrV {
+  --z-index: 0;
+  background-color: transparent;
+  color: #b0b0b0;
+  font-family: 'Roboto', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.x7-join-us-create-account .line-5-8aGnrV {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/line-5@2x.svg);
+  background-size: 100% 100%;
+  height: 2px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 25px;
+  width: 436px;
+}
+
+.x7-join-us-create-account .group-2-EYEJbo {
+  --z-index: 2;
+  background-color: transparent;
+  height: 51px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 175px;
+  width: 438px;
+}
+
+.x7-join-us-create-account .rectangle-5-8AyzCx {
+  --z-index: 0;
+  background-color: #f3802d;
+  border: 2px none;
+  border-radius: 10px;
+  height: 51px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 436px;
+}
+
+.x7-join-us-create-account .sign-in-8AyzCx {
+  --z-index: 1;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'Roboto', Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 191px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 15px;
+  width: auto;
+}
+
+.x7-join-us-create-account .welcome-sDLNVS {
+  --z-index: 1;
+  background-color: transparent;
+  color: #444444;
+  font-family: 'Roboto', Helvetica;
+  font-size: 50px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 55.0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.x7-join-us-create-account .you-only-need-to-fill-the-inputs-above-sDLNVS {
+  --z-index: 2;
+  background-color: transparent;
+  color: #444444;
+  font-family: 'Roboto', Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 66px;
+  width: auto;
+}
+
+.x7-join-us-create-account .rectangle-10-C61RwL {
+  --z-index: 2;
+  background-color: #ececec;
+  border: 1px none;
+  height: 124px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 900px;
+  width: 1920px;
+}
+
+.x7-join-us-create-account .rectangle-7-C61RwL {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url(../img/rectangle-7@1x.png);
+  background-size: 100% 100%;
+  height: 796px;
+  left: 1227px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 228px;
+  width: 543px;
+}
+
+.x7-join-us-create-account .group-88-C61RwL {
+  --z-index: 4;
+  background-color: transparent;
+  height: 52px;
+  left: 658px;
+  opacity: 1;
+  position: absolute;
+  top: 737px;
+  width: 436px;
+}
+
+.x7-join-us-create-account .group-22-2p4Gmi {
+  --z-index: 0;
+  background-color: transparent;
+  height: 52px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 436px;
+}
+
+.x7-join-us-create-account .cta-VH7P0y {
+  --z-index: 0;
+  background-color: transparent;
+  height: 52px;
+  left: 0px;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  width: 436px;
+}
+
+.x7-join-us-create-account .group-vD2eV9 {
+  --z-index: 0;
+  background-color: transparent;
+  height: 52px;
+  left: 0px;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  width: 436px;
+}
+
+.x7-join-us-create-account .bg-QRDJ7G {
+  --z-index: 0;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #b9b9b9;
+  border-radius: 10px;
+  height: 52px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  width: 436px;
+}
+
+.x7-join-us-create-account .group-89-2p4Gmi {
+  --z-index: 1;
+  background-color: transparent;
+  height: 22px;
+  left: 128px;
+  opacity: 1;
+  position: absolute;
+  top: 16px;
+  width: 180px;
+}
+
+.x7-join-us-create-account .group-103-ecDJPL {
+  --z-index: 0;
+  background-color: transparent;
+  height: 22px;
+  left: 0px;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  width: 182px;
+}
+
+.x7-join-us-create-account .sign-in-with-google-BWaExh {
+  --z-index: 0;
+  background-color: transparent;
+  color: #444444;
+  font-family: 'Roboto', Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 25px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: auto;
+}
+
+.x7-join-us-create-account .download-BWaExh {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/download@2x.png);
+  background-size: 100% 100%;
+  height: 17px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 2px;
+  width: 17px;
+}
+
+.x7-join-us-create-account .group-92-C61RwL {
+  --z-index: 5;
+  background-color: transparent;
+  height: 52px;
+  left: 658px;
+  opacity: 1;
+  position: absolute;
+  top: 814px;
+  width: 436px;
+}
+
+.x7-join-us-create-account .cta-9ZROxt {
+  --z-index: 0;
+  background-color: transparent;
+  height: 52px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 436px;
+}
+
+.x7-join-us-create-account .group-yuxVHy {
+  --z-index: 0;
+  background-color: transparent;
+  height: 52px;
+  left: 0px;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  width: 436px;
+}
+
+.x7-join-us-create-account .bg-flxqHu {
+  --z-index: 0;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #b9b9b9;
+  border-radius: 10px;
+  height: 52px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  width: 436px;
+}
+
+.x7-join-us-create-account .group-91-9ZROxt {
+  --z-index: 1;
+  background-color: transparent;
+  height: 22px;
+  left: 120px;
+  opacity: 1;
+  position: absolute;
+  top: 15px;
+  width: 196px;
+}
+
+.x7-join-us-create-account .group-102-sZCVeO {
+  --z-index: 0;
+  background-color: transparent;
+  height: 22px;
+  left: 0px;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  width: 198px;
+}
+
+.x7-join-us-create-account .sign-in-with-linked-in-MiR8ZT {
+  --z-index: 0;
+  background-color: transparent;
+  color: #444444;
+  font-family: 'Roboto', Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 25px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: auto;
+}
+
+.x7-join-us-create-account .vector-MiR8ZT {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/vector@2x.svg);
+  background-size: 100% 100%;
+  height: 17px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 3px;
+  width: 17px;
+}
+
+.x7-join-us-create-account .group-97-C61RwL {
+  --z-index: 6;
+  background-color: transparent;
+  height: 19px;
+  left: 867px;
+  opacity: 1;
+  position: absolute;
+  top: 694px;
+  width: 19px;
+}
+
+.x7-join-us-create-account .or-ixNXIO {
+  --z-index: 0;
+  background-color: transparent;
+  color: #444444;
+  font-family: 'Roboto', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 17px;
+}
+
+.x7-join-us-create-account .group-34-C61RwL {
+  --z-index: 7;
+  background-color: transparent;
+  height: 53px;
+  left: 150px;
+  opacity: 1;
+  position: absolute;
+  top: 70px;
+  width: 1620px;
+}
+
+.x7-join-us-create-account .full-name_nb-1-qQAETk {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/full-name-nb-1@2x.png);
+  background-size: 100% 100%;
+  height: 41px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 124px;
+}
+
+.x7-join-us-create-account .group-32-qQAETk {
+  --z-index: 1;
+  background-color: transparent;
+  height: 51px;
+  left: 1431px;
+  opacity: 1;
+  position: absolute;
+  top: 2px;
+  width: 189px;
+}
+
+.x7-join-us-create-account .group-2-VPKrU7 {
+  --z-index: 0;
+  background-color: transparent;
+  height: 51px;
+  left: 85px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 106px;
+}
+
+.x7-join-us-create-account .rectangle-5-xvaclw {
+  --z-index: 0;
+  background-color: transparent;
+  border: 2px solid;
+  border-color: #f3802d;
+  border-radius: 10px;
+  height: 51px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 104px;
+}
+
+.x7-join-us-create-account .join-us-xvaclw {
+  --z-index: 1;
+  background-color: transparent;
+  color: #f3802d;
+  font-family: 'Roboto', Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 23px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 13px;
+  width: auto;
+}
+
+.x7-join-us-create-account .group-2-a3mz1z {
+  --z-index: 1;
+  background-color: transparent;
+  height: 21px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 13px;
+  width: 47px;
+}
+
+.x7-join-us-create-account .login-mmfAe1 {
+  --z-index: 0;
+  background-color: transparent;
+  color: #f3802d;
+  cursor: pointer;
+  font-family: 'Roboto', Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: auto;
+}
+
+.x7-join-us-create-account .group-33-qQAETk {
+  --z-index: 2;
+  background-color: transparent;
+  height: 21px;
+  left: 501px;
+  opacity: 1;
+  position: absolute;
+  top: 15px;
+  width: 569px;
+}
+
+.x7-join-us-create-account .group-3-xvFZft {
+  --z-index: 0;
+  background-color: transparent;
+  height: 21px;
+  left: 0px;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  width: 579px;
+}
+
+.x7-join-us-create-account .how-it-works-NlWtFY {
+  --z-index: 0;
+  background-color: transparent;
+  color: #444444;
+  font-family: 'Roboto', Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 89px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.x7-join-us-create-account .home-NlWtFY {
+  --z-index: 1;
+  background-color: transparent;
+  color: #444444;
+  font-family: 'Roboto', Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.x7-join-us-create-account .entrepreneur-NlWtFY {
+  --z-index: 2;
+  background-color: transparent;
+  color: #444444;
+  font-family: 'Roboto', Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 242px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.x7-join-us-create-account .advisors-NlWtFY {
+  --z-index: 3;
+  background-color: transparent;
+  color: #444444;
+  font-family: 'Roboto', Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 385px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.x7-join-us-create-account .investors-NlWtFY {
+  --z-index: 4;
+  background-color: transparent;
+  color: #444444;
+  font-family: 'Roboto', Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 495px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}

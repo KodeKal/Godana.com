@@ -1,0 +1,67 @@
+:root { 
+  --black: #000000;
+  --chicago: #575757;
+  --crusta: #f3802d;
+  --nobel: #b0b0b0;
+  --sushi: #76b83f;
+  --tundora: #444444;
+  --white: #ffffff;
+ 
+  --font-size-l: 50px;
+  --font-size-m: 18px;
+  --font-size-s: 16px;
+  --font-size-xs: 14px;
+  --font-size-xxs: 13px;
+ 
+  --font-family-roboto: "Roboto", Helvetica;
+}
+.roboto-normal-tundora-16px {
+  color: var(--tundora);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.roboto-normal-tundora-18px {
+  color: var(--tundora);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.roboto-normal-crusta-18px {
+  color: var(--crusta);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.roboto-bold-chicago-16px {
+  color: var(--chicago);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.roboto-normal-nobel-16px {
+  color: var(--nobel);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.roboto-bold-sushi-18px {
+  color: var(--sushi);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+:root {
+}

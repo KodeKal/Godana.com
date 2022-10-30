@@ -1,0 +1,930 @@
+/* screen - 6-contact-us */
+
+.x6-contact-us {
+  background-color: var(--white);
+  border: 1px none;
+  height: 1376px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.x6-contact-us .line-4-C61RwL {
+  background-color: transparent;
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  top: 902px;
+  width: 1920px;
+}
+
+.x6-contact-us .group-75-C61RwL {
+  background-color: transparent;
+  height: 559px;
+  left: 150px;
+  position: absolute;
+  top: 257px;
+  width: 440px;
+}
+
+.x6-contact-us .how-can-entra-help-you-sDLNVS {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 31.1px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 84px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.x6-contact-us .span0-YemKPg {
+}
+
+.x6-contact-us .span1-YemKPg {
+  color: var(--tundora);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.x6-contact-us .span2-YemKPg {
+}
+
+.x6-contact-us .group-79-sDLNVS {
+  background-color: transparent;
+  height: 67px;
+  left: 0px;
+  position: absolute;
+  top: 164px;
+  width: 438px;
+}
+
+.x6-contact-us .name-Zz7QqF {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.x6-contact-us .group-6-Zz7QqF {
+  background-color: transparent;
+  height: 34px;
+  left: 0px;
+  position: absolute;
+  top: 33px;
+  width: 438px;
+}
+
+.x6-contact-us .type-your-name-here-NlpcrL {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.x6-contact-us .line-5-NlpcrL {
+  background-color: transparent;
+  height: 2px;
+  left: 0px;
+  position: absolute;
+  top: 34px;
+  width: 436px;
+}
+
+.x6-contact-us .group-79-xOjUD2 {
+  background-color: transparent;
+  height: 67px;
+  left: 0px;
+  position: absolute;
+  top: 263px;
+  width: 438px;
+}
+
+.x6-contact-us .email-AATZm7 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.x6-contact-us .group-6-AATZm7 {
+  background-color: transparent;
+  height: 34px;
+  left: 0px;
+  position: absolute;
+  top: 33px;
+  width: 438px;
+}
+
+.x6-contact-us .eg-contactemailcom-QFESk9 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.x6-contact-us .line-5-QFESk9 {
+  background-color: transparent;
+  height: 2px;
+  left: 0px;
+  position: absolute;
+  top: 34px;
+  width: 436px;
+}
+
+.x6-contact-us .group-79-lNJ3aG {
+  background-color: transparent;
+  height: 67px;
+  left: 0px;
+  position: absolute;
+  top: 362px;
+  width: 438px;
+}
+
+.x6-contact-us .message-6HKWqB {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.x6-contact-us .group-6-6HKWqB {
+  background-color: transparent;
+  height: 34px;
+  left: 0px;
+  position: absolute;
+  top: 33px;
+  width: 438px;
+}
+
+.x6-contact-us .type-your-message-here-1uWwPz {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.x6-contact-us .line-5-1uWwPz {
+  background-color: transparent;
+  height: 2px;
+  left: 0px;
+  position: absolute;
+  top: 34px;
+  width: 436px;
+}
+
+.x6-contact-us .group-2-sDLNVS {
+  background-color: transparent;
+  height: 51px;
+  left: 0px;
+  position: absolute;
+  top: 508px;
+  width: 175px;
+}
+
+.x6-contact-us .rectangle-5-GrULU9 {
+  background-color: var(--crusta);
+  border: 2px none;
+  border-radius: 10px;
+  height: 51px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 173px;
+}
+
+.x6-contact-us .send-message-GrULU9 {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 26px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 14px;
+  width: auto;
+}
+
+.x6-contact-us .hello-sDLNVS {
+  background-color: transparent;
+  color: var(--tundora);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 55.0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.x6-contact-us .rectangle-7-C61RwL {
+  background-color: transparent;
+  height: 750px;
+  left: 1603px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 150px;
+  width: 317px;
+}
+
+.x6-contact-us .rectangle-7-VMr6Om {
+  background-color: transparent;
+  height: 752px;
+  left: 968px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 150px;
+  width: 317px;
+}
+
+.x6-contact-us .rectangle-7-mzXdH9 {
+  background-color: transparent;
+  height: 750px;
+  left: 1285px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 150px;
+  width: 318px;
+}
+
+.x6-contact-us .rectangle-7-QxM5SU {
+  background-color: transparent;
+  height: 750px;
+  left: 651px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 150px;
+  width: 317px;
+}
+
+.x6-contact-us .rectangle-10-C61RwL {
+  background: linear-gradient(180deg, rgb(240.12499898672104, 152.95839071273804, 90.04686892032623) 0%, rgb(243.00000071525574, 128.0000075697899, 45.00000111758709) 100%);
+  background-color: transparent;
+  border: 1px none;
+  height: 124px;
+  left: 651px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 900px;
+  width: 1269px;
+}
+
+.x6-contact-us .group-106-C61RwL {
+  background-color: transparent;
+  height: 350px;
+  left: 0px;
+  position: absolute;
+  top: 1026px;
+  width: 1920px;
+}
+
+.x6-contact-us .group-74-PwO50P {
+  background-color: transparent;
+  height: 350px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1922px;
+}
+
+.x6-contact-us .rectangle-14-haGiDl {
+  background-color: var(--white);
+  border: 1px none;
+  box-shadow: 0px 4px 100px #0000001a;
+  height: 350px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.x6-contact-us .group-122-haGiDl {
+  background-color: transparent;
+  height: 24px;
+  left: 160px;
+  position: absolute;
+  top: 211px;
+  width: 64px;
+}
+
+.x6-contact-us .en-wh2Lxv {
+  background-color: transparent;
+  color: var(--tundora);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 23px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.x6-contact-us .arrow-6-stroke-wh2Lxv {
+  background-color: transparent;
+  height: 6px;
+  left: 51px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 6px;
+  width: 11px;
+}
+
+.x6-contact-us .group-121-wh2Lxv {
+  background-color: transparent;
+  height: 15px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 15px;
+}
+
+.x6-contact-us .line-12-wh2Lxv {
+  background-color: transparent;
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  top: 23px;
+  width: 62px;
+}
+
+.x6-contact-us .entra-all-rights-reserved-haGiDl {
+  background-color: transparent;
+  color: #bdbdbd;
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 150px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 304px;
+  width: auto;
+}
+
+.x6-contact-us .group-34-haGiDl {
+  background-color: transparent;
+  height: 178px;
+  left: 150px;
+  position: absolute;
+  top: 50px;
+  width: 1620px;
+}
+
+.x6-contact-us .full-name_nb-1-lU2g03 {
+  background-color: transparent;
+  height: 41px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 124px;
+}
+
+.x6-contact-us .group-32-lU2g03 {
+  background-color: transparent;
+  height: 51px;
+  left: 1431px;
+  position: absolute;
+  top: 2px;
+  width: 189px;
+}
+
+.x6-contact-us .group-2-2OUrU3 {
+  background-color: transparent;
+  height: 51px;
+  left: 85px;
+  position: absolute;
+  top: 0px;
+  width: 106px;
+}
+
+.x6-contact-us .rectangle-5-Ks9Pus {
+  background-color: transparent;
+  border: 2px solid;
+  border-color: var(--crusta);
+  border-radius: 10px;
+  height: 51px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 104px;
+}
+
+.x6-contact-us .join-us-Ks9Pus {
+  background-color: transparent;
+  height: auto;
+  left: 23px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 13px;
+  width: auto;
+}
+
+.x6-contact-us .group-2-l3qICA {
+  background-color: transparent;
+  height: 21px;
+  left: 0px;
+  position: absolute;
+  top: 13px;
+  width: 47px;
+}
+
+.x6-contact-us .login-pzNfyq {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: auto;
+}
+
+.x6-contact-us .group-33-lU2g03 {
+  background-color: transparent;
+  height: 163px;
+  left: 501px;
+  position: absolute;
+  top: 15px;
+  width: 746px;
+}
+
+.x6-contact-us .group-3-NOptQL {
+  background-color: transparent;
+  height: 163px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 772px;
+}
+
+.x6-contact-us .entra-for-everyone-zyltN9 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.x6-contact-us .entrepreneurs-zyltN9 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 62px;
+  width: 100px;
+}
+
+.x6-contact-us .send-us-a-message-zyltN9 {
+  background-color: transparent;
+  height: auto;
+  left: 597px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 62px;
+  width: auto;
+}
+
+.x6-contact-us .entra-zyltN9 {
+  background-color: transparent;
+  height: auto;
+  left: 262px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 62px;
+  width: auto;
+}
+
+.x6-contact-us .entra-RP9ZK1 {
+  background-color: transparent;
+  height: auto;
+  left: 445px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 62px;
+  width: auto;
+}
+
+.x6-contact-us .advisors-zyltN9 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 103px;
+  width: auto;
+}
+
+.x6-contact-us .x-zyltN9 {
+  background-color: transparent;
+  height: 23px;
+  left: 596px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 101px;
+  width: 20px;
+}
+
+.x6-contact-us .helloentracom-zyltN9 {
+  background-color: transparent;
+  height: auto;
+  left: 625px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 103px;
+  width: auto;
+}
+
+.x6-contact-us .entra-3MeydQ {
+  background-color: transparent;
+  height: auto;
+  left: 262px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 103px;
+  width: auto;
+}
+
+.x6-contact-us .entra-ht64au {
+  background-color: transparent;
+  height: auto;
+  left: 445px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 103px;
+  width: auto;
+}
+
+.x6-contact-us .investors-zyltN9 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 144px;
+  width: auto;
+}
+
+.x6-contact-us .entra-Inj4UC {
+  background-color: transparent;
+  height: auto;
+  left: 262px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 144px;
+  width: auto;
+}
+
+.x6-contact-us .contact-us-zyltN9 {
+  background-color: transparent;
+  height: auto;
+  left: 597px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.x6-contact-us .social-zyltN9 {
+  background-color: transparent;
+  height: auto;
+  left: 223px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.x6-contact-us .group-311-PwO50P {
+  background-color: transparent;
+  height: 105px;
+  left: 875px;
+  position: absolute;
+  top: 125px;
+  width: 211px;
+}
+
+.x6-contact-us .line-11-PwO50P {
+  background-color: transparent;
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  top: 276px;
+  width: 1920px;
+}
+
+.x6-contact-us .arrow-5-PwO50P {
+  background-color: transparent;
+  height: 9px;
+  left: 1397px;
+  position: absolute;
+  top: 134px;
+  width: 13px;
+}
+
+.x6-contact-us .group-73-C61RwL {
+  background-color: transparent;
+  height: 150px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.x6-contact-us .rectangle-14-ql7mN0 {
+  background-color: var(--white);
+  border: 1px none;
+  box-shadow: 0px 4px 100px #0000001a;
+  height: 150px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.x6-contact-us .group-34-ql7mN0 {
+  background-color: transparent;
+  height: 53px;
+  left: 150px;
+  position: absolute;
+  top: 50px;
+  width: 1620px;
+}
+
+.x6-contact-us .full-name_nb-1-YCvwtQ {
+  background-color: transparent;
+  height: 41px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 124px;
+}
+
+.x6-contact-us .group-32-YCvwtQ {
+  background-color: transparent;
+  height: 51px;
+  left: 1431px;
+  position: absolute;
+  top: 2px;
+  width: 189px;
+}
+
+.x6-contact-us .group-2-hXyxcn {
+  background-color: transparent;
+  cursor: pointer;
+  height: 51px;
+  left: 85px;
+  position: absolute;
+  top: 0px;
+  width: 106px;
+}
+
+.x6-contact-us .rectangle-5-mTzzqZ {
+  background-color: transparent;
+  border: 2px solid;
+  border-color: var(--crusta);
+  border-radius: 10px;
+  height: 51px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 104px;
+}
+
+.x6-contact-us .join-us-mTzzqZ {
+  background-color: transparent;
+  height: auto;
+  left: 23px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 13px;
+  width: auto;
+}
+
+.x6-contact-us .group-2-fRHwQq {
+  background-color: transparent;
+  height: 21px;
+  left: 0px;
+  position: absolute;
+  top: 13px;
+  width: 47px;
+}
+
+.x6-contact-us .login-Amixtp {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: auto;
+}
+
+.x6-contact-us .group-33-YCvwtQ {
+  background-color: transparent;
+  height: 21px;
+  left: 501px;
+  position: absolute;
+  top: 15px;
+  width: 569px;
+}
+
+.x6-contact-us .group-3-exq1lr {
+  background-color: transparent;
+  height: 21px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 579px;
+}
+
+.x6-contact-us .how-it-works-i5CHQS {
+  background-color: transparent;
+  height: auto;
+  left: 89px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.x6-contact-us .home-i5CHQS {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.x6-contact-us .entrepreneur-i5CHQS {
+  background-color: transparent;
+  height: auto;
+  left: 242px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.x6-contact-us .advisors-i5CHQS {
+  background-color: transparent;
+  height: auto;
+  left: 385px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.x6-contact-us .investors-i5CHQS {
+  background-color: transparent;
+  height: auto;
+  left: 495px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
